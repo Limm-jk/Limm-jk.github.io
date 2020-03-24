@@ -13,13 +13,13 @@ AI를 더 공부해서 BioInformatics를 해보고 싶습니다!
 
 만나서 반갑습니다:D
 
-  ## Toy Project
+## Toy Project
 
  * 자연어 처리를 이용한 감정분석(19.11)
 
-  ## Education
+## Education
  * 충남대학교 / 컴퓨터공학 (16.03~)
 
-  ## Link
+## Link
  * [GitHub](github.com/Limm-jk/)
  * [BOJ_in_Python](https://github.com/Limm-jk/BaekJoon_Online_Judge)
