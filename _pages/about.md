@@ -2,6 +2,7 @@
 title: "Limm-JK(JunKyu)"
 permalink: /about/
 layout: single
+author_profile: true
 ---
 
 

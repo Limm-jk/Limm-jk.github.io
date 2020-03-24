@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "코딩 따라하기 - Limm"
 title_separator          : "-"
-subtitle                 : "열공합니다"
+subtitle                 : #"열공합니다"
 name                     : "Junkyu-Limm"
-description              : "블로그 꾸미기~"
+description              : #"블로그 꾸미기~"
 url                      : "https://Limm-jk.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "임준규"
   avatar           : "/assets/images/owner.jpg"
-  bio              : "배고파요."
+  bio              : "멋진데 취업하고 싶어요"
   location         : "South Korea"
   email            : lim-.-@kakao.com
   links:
