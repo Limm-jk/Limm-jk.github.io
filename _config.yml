@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "임준규"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/owner.jpg"
   bio              : "배고파요."
   location         : "South Korea"
   email            : lim-.-@kakao.com
