@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "코딩 따라하기 - Limm"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "열심히 공부합니다.."
 name                     : "Junkyu-Limm"
 description              : "블로그 꾸미기~"
 url                      : "https://Limm-jk.github.io"
@@ -100,7 +100,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:201602057@cs-cnu.org
+      # url: mailto:201602057@cs-cnu.org
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://Limm-jk.github.io"
